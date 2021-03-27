@@ -8,3 +8,5 @@ Then it will search all the images in that sepecific area and display the images
 it uses: python 3.7 - tkinter - pil - shutil
 
 if you encounter some error they will be displayed in the error text area
+
+### spegatti code alert!!!
